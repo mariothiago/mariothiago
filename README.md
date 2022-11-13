@@ -5,11 +5,27 @@
   - 🌱 Learning Javscript and .NET C# (NodeJS and ReactJS)
   
   ### Stats:
-  [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariothiago&theme=dark&layout=compact)](https://github.com/mariothiago/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariothiago&theme=dark&layout=compact)](https://github.com/mariothiago/github-readme-stats)
+  <div>
+  <a href="https://github.com/mariothiago">
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=mariothiago&show_icons=true&theme=dark"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariothiago&layout=compact&langs_count=8&theme=dark"/>
+</div>
+  
+  ### Fav languages and currently being studied:
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Thiago-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thiago-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
   
   ### Profiles:
-  [![Gmail Badge](https://img.shields.io/badge/-mario.thiago247@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario.thiago247@gmail.com)](mailto:mario.thiago247@gmail.com)
+    If you need to contact me or follow me on any social media:
+  <div> 
+    <a href="[https://www.linkedin.com/in/josu%C3%A9-batista-694bba135/](https://www.linkedin.com/in/thiago-rocha-b89396196/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/mariothiago_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:mario.thiago247@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 **mariothiago/mariothiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
