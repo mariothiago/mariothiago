@@ -11,7 +11,7 @@
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariothiago&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
-  ### Fav programming languages and currently being studied:
+  ### Favorites programming languages/frameworks and currently being studied:
   <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
