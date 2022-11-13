@@ -4,8 +4,9 @@
   - 📚 Systems Analysis and Development student at Faculdade Tecnológica Lourenço Filho (2020 - 2022)
   - 🌱 Learning Javscript and .NET C# (NodeJS and ReactJS)
   
-  [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariothiago)](https://github.com/mariothiago/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariothiago&layout=compact)](https://github.com/mariothiago/github-readme-stats)
+  [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariothiago&theme=dark)](https://github.com/mariothiago/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariothiago&langs_count=8&theme=dark)](https://github.com/mariothiago/github-readme-stats)
+
 <!--
 **mariothiago/mariothiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
