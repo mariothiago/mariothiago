@@ -1,8 +1,9 @@
 ### Hello there! 👋
 
-  - 🔭 Currently searching for a new job.
-  - 📚 Gradueted - Analysis and Development student at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).
-  - 🌱 Learning .NET, C#, Javascript (NodeJS and ReactJS) and Typescript
+  - 🔭 .NET fullstack developer. Currently searching for a new job.
+  - 📚 Graduated - System Analysis and Development at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).
+  - 🌱 Learning .NET, C#, Javascript (NodeJS and ReactJS) and Typescript.
+  - 💬 Experience in .NET 5.0 and 6.0 for building WebAPI's and Background Services, front end with React JS and simple and advanced queries with Microsoft SQL Server while an intern at Empreendimentos Pague Menos SA.
   
   ### Stats:
   <div>
