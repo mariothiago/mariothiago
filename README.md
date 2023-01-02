@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
   - 🔭 Currently searching for a new job.
-  - 📚 Systems Analysis and Development student at Faculdade Tecnológica Lourenço Filho (2020 - 2022).
+  - 📚 Gradueted - Analysis and Development student at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).
   - 🌱 Learning .NET, C#, Javascript (NodeJS and ReactJS) and Typescript
   
   ### Stats:
